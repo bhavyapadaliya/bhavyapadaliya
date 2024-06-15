@@ -1,5 +1,4 @@
-[![MasterHead](![image](https://github.com/bhavyapadaliya/bhavyapadaliya/assets/172693086/58172d2f-41a2-4dfa-9c2f-d18eb6b23af4)
-)]
+[![MasterHead](https://github.com/bhavyapadaliya/bhavyapadaliya/assets/172693086/58172d2f-41a2-4dfa-9c2f-d18eb6b23af4)]
 <h1 align="center">Hi 👋, I'm Bhavya Padaliya</h1>
 <h3 align="center">A passionate Diploma CE Student From Gujarat</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e470t3xgojaj192p0kxabx2rk58h04k9rn10pvxzqof&ep=v1_gifs_related&rid=giphy.gif&ct=g"
