@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **padaliyabhavya834@gmail.com**
 
-- ⚡ Fun fact **I Am A Certified Procrastinator But Still Get The Work Done In Time.**
+- ⚡ Fun fact **I Am A Certified Procrastinator ,<br>But Still Get The Work Done In Time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
