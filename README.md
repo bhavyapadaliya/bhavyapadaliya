@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Bhavya Padaliya</h1>
 <h3 align="center">A passionate Diploma CE Student From Gujarat</h3>
-<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif?cid=ecf05e47br0e825z796mkbyv99fbbwdop53k4orzwo8jadg6&ep=v1_gifs_related&rid=giphy.gif&ct=g"
+<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e470t3xgojaj192p0kxabx2rk58h04k9rn10pvxzqof&ep=v1_gifs_related&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyapadaliya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyapadaliya" /> </p>
 
