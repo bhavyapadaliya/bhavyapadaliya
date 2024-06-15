@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/hello-world-gif-18564330)]
+[![MasterHead](https://tenor.com/bp3AQ.gif)]
 <h1 align="center">Hi 👋, I'm Bhavya Padaliya</h1>
 <h3 align="center">A passionate Diploma CE Student From Gujarat</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e470t3xgojaj192p0kxabx2rk58h04k9rn10pvxzqof&ep=v1_gifs_related&rid=giphy.gif&ct=g"
