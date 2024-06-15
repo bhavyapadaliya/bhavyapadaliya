@@ -1,4 +1,5 @@
-<p align="center">![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNjcjA1ZnVzNnNldXpjajdqbTBzZTNlaWJwczI5MzVrbnRycjNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif)</p>
+![MasterHead](https://github.com/bhavyapadaliya/bhavyapadaliya/assets/172693086/67f707d2-7e37-42d3-a1c5-3a0cf2a10ce8)
+
 <h1 align="center">Hi 👋, I'm Bhavya Padaliya</h1>
 <h3 align="center">A passionate Diploma CE Student From Gujarat</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e470t3xgojaj192p0kxabx2rk58h04k9rn10pvxzqof&ep=v1_gifs_related&rid=giphy.gif&ct=g"
